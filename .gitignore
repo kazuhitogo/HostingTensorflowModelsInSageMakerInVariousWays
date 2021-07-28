@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+MyModel/*
+MyModelAddProcess/*
+MyMultiModel/*
+code/labels.txt
+mobilenet/*
+mobilenetv2/*
+work/*
+
