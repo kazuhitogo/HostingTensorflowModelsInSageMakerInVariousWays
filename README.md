@@ -1,1 +1,1 @@
-# SageMakerHostingJourney
+# HostingTensorflowModelsInSageMakerInVariousWays
