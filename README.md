@@ -1,1 +1,2 @@
 # HostingTensorflowModelsInSageMakerInVariousWays
+HostingTensorflowModelsInSageMakerInVariousWays.ipynb を開いてください
